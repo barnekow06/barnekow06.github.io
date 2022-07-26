@@ -10,7 +10,7 @@ title: DREAM Project Site
 
 I am a Computer Science Master's student at DePaul University. I have a Bachelor's degree in Theater from the Univeristy of California, Santa Barbara. After working as a flight attendant for 5 years after college, I decided to undertake a career change. My interests lie in Graphics / Animation, Human Computer Interaction, and Video Games. I am currently a researcher working with the American Sign Language Project on facial expressions and their importance to creating a legible sign language avatar.
 
-[email@domain.com](mailto:nbarneko@depaul.edu)
+[nbarneko@depaul.edu](mailto:nbarneko@depaul.edu)
 
 ## About My Advisor
 Dr. Rosalee Wolfe
