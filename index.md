@@ -30,9 +30,11 @@ Graphics / Animation, Human Computer Interaction
 Specific Research Area:
 Character animation to support communication between Deaf and hearing communities; accessibility; Graphics pedagogy
 
-Email: [wolfe@cs.depaul.edu](mailto:wolfe@cs.depaul.edu)
+Email: 
+[wolfe@cs.depaul.edu](mailto:wolfe@cs.depaul.edu)
 
-Homepage: [http://asl.cs.depaul.edu/](http://asl.cs.depaul.edu/)
+Homepage: 
+[http://asl.cs.depaul.edu/](http://asl.cs.depaul.edu/)
 
 ## About My Project
 
