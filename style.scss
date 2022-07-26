@@ -14,7 +14,7 @@
 /**************/
 
 header {
-  background-image: raw.https://barnekow06.github.io/images/Nicole.png;
+  background-image: url('raw.https://barnekow06.github.io/images/NicoleS.png');
 }
 
 html {
@@ -22,7 +22,7 @@ html {
 }
 
 body {
-	background: raw.https://barnekow06.github.io/images/Nicole.png;
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
