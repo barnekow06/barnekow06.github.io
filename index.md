@@ -16,7 +16,7 @@ Not long after starting the program, I found the American Sign Language Project.
 
 For the future, I have dreams of working on a humanitarian project, opening a female led video game studio, or continuing down the research path and earning my Doctorate. 
 
-### Contact Me
+Email:
 [nbarneko@depaul.edu](mailto:nbarneko@depaul.edu)
 
 ## About My Advisor
