@@ -8,3 +8,6 @@ Within the American Sign Language Project at DePaul, we are lucky enough to be a
 
 
 [Expression Builder Powerpoint Tutorial](https://depauledu-my.sharepoint.com/:p:/g/personal/nbarneko_depaul_edu/EYr_lwMxmEJDkniGh8DR7toBiOxI12PAAXiR_-olurC1ug?e=7i6YgL)
+
+
+[Expression Builder Documentation](https://aslproject.com/paula/ad.pdf)
