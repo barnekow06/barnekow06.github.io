@@ -12,7 +12,7 @@ Hello! I am a Master's student at DePaul University, researching with the Americ
 
 Upon graduation from UCSB, I moved across the country to Chicago where I began working as a flight attendant. Like my study abroad experience, I was able to travel and experience many different people and cultures. Once I was furloughed, due to COVID, I turned my attention to volunteering, working with a local animal shelter as a foster coordinator. I have always felt drawn to helping and caring for others, and trying to affect change. I decided I could have more of an impact if I broadened my skillset, and thus, I began pursuing my Master's in Computer Science. 
 
-Not long after starting the program, I found the American Sign Language Project. I reached out to Dr. Wolfe to ask if I could help on the project. I had taken three years of sign language in high school and I thought my Theater degree would be of some use in helping the avatar be more realistic. Forunately, Rosalee agreed, and I was put to work. A few months later, I applied and was rewarded this DREAM scholarship. Rosalee graciously offered to be my research advisor and is now advising this project.
+Not long after starting the program, I found the American Sign Language Project. I reached out to Dr. Wolfe to ask if I could help on the project. I had taken three years of sign language in high school and I thought my Theater degree would be of some use in helping the avatar be more realistic. Fortunately, Rosalee agreed, and I was put to work. A few months later, I applied and was rewarded this DREAM scholarship. Rosalee graciously offered to be my research advisor and is now advising this project.
 
 For the future, I have dreams of working on a humanitarian project, opening a female led video game studio, or continuing down the research path and earning my Doctorate. 
 
@@ -35,6 +35,8 @@ Email:
 
 Homepage: 
 [http://asl.cs.depaul.edu/](http://asl.cs.depaul.edu/)
+
+A special thank you to Dr. McDonald who was an advisor in all but official title. Thank you as well to Jacob Furth who mentored my original 10 weeks.
 
 ## About My Project
 
